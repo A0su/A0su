@@ -7,3 +7,4 @@ Interested in:
 - Reverse Engineering
 - Cryptography
 - Programming Language Theory
+- Mathematics
